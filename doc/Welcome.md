@@ -13,7 +13,7 @@
 
 Agenda
 1. Journey
-1. Operating model
+1. Operating model [Comparing Operating Models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/)
 1. Roles
 1. Skilling
 1. Azure Service Health – Incident Management
