@@ -9,7 +9,7 @@
 
 **Feeback** We would love to hear your thoughts, please provide us your feedback [//aka.ms/ftalive](https://aka.ms/ftalive).
 
-![journey](/png/journey.png)
+![journey](/PNG/Journey.PNG)
 
 Agenda
 1. Journey
