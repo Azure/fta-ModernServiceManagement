@@ -14,9 +14,10 @@
 Agenda
 1. Journey
 1. Operating model [Comparing Operating Models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/)
-1. Roles
-1. Skilling
-1. Azure Service Health – Incident Management
-1. Cost Management
-1. SLA and resilience
-1. Azure Updates
+1. Cloud Functions [Understanding Cloud Functions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/#understand-required-cloud-functions)
+2. Roles
+3. Skilling
+4. Azure Service Health – Incident Management
+5. Cost Management
+6. SLA and resilience
+7. Azure Updates
