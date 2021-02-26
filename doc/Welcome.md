@@ -19,7 +19,7 @@ Agenda
 3. Establish Teams [Teams](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#establish-teams)
 4. Role Development [Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills)
 5. Skilling [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
-6. Azure Service Health – Incident Management
-7. Cost Management
-8. SLA and resilience
+6. Azure Service Health – Incident Management [Azure Service Health](https://azure.microsoft.com/en-us/features/service-health/#features)
+7. Cost Management [Azure CostManagement](https://azure.microsoft.com/en-us/services/cost-management/#features)(https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/best-practices)(https://docs.microsoft.com/en-us/azure/architecture/framework/cost/design-model)
+8. SLA and resilience [Azure Reliability](https://azure.microsoft.com/en-us/features/reliability/#features)(https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-resiliency-azure)(https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-resiliency-infographic/Azure_resiliency_infographic.pdf)
 9. Azure Updates
