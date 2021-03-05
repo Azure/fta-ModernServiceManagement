@@ -13,8 +13,8 @@
 
 # Agenda
 ## Journey
-Operating model [Comparing Operating Models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/)
-Cloud Functions [Understanding Cloud Functions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/#understand-required-cloud-functions)
+.Operating model [Comparing Operating Models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/)
+.Cloud Functions [Understanding Cloud Functions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/#understand-required-cloud-functions)
 Roles [Map People to Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/organization-structures) [RACI](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/raci-alignment)
 Establish Teams [Teams](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#establish-teams)
 Role Development [Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills)
