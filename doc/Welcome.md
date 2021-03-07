@@ -16,8 +16,8 @@
 1. Operating model [Comparing Operating Models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/)
 2. Cloud Functions [Understanding Cloud Functions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/#understand-required-cloud-functions)
 3. Roles [Map People to Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/organization-structures) [RACI](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/raci-alignment)
-4. Role Development [Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills)
-5. Establish Teams [Teams](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#establish-teams)
+4. Establish Teams [Teams](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#establish-teams)
+5.  Role Development [Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills)
 6. Skilling [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
 ## Processes
 7. Azure Service Health – Incident Management [Azure Service Health](https://azure.microsoft.com/en-us/features/service-health/#features)
