@@ -11,7 +11,7 @@
 
 ![journey](/png/Journey.PNG)
 
-(png/today's Cloud Challenges.PNG)
+!(png/today's Cloud Challenges.PNG)
 
 # Agenda
 ## Journey
