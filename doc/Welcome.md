@@ -10,6 +10,7 @@
 **Feeback** We would love to hear your thoughts, please provide us your feedback [//aka.ms/ftalive](https://aka.ms/ftalive).
 
 ![journey](/png/Journey.PNG)
+![Challenges](/png/todays cloud challenges.png)
 
 # Agenda
 ## Journey
