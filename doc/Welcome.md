@@ -25,4 +25,6 @@
 8. Cost Management [Azure CostManagement](https://azure.microsoft.com/en-us/services/cost-management/#features) (https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/best-practices) (https://docs.microsoft.com/en-us/azure/architecture/framework/cost/design-model)
 9. SLA and resilience [Azure Reliability](https://azure.microsoft.com/en-us/features/reliability/#features) (https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-resiliency-azure) (https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-resiliency-infographic/Azure_resiliency_infographic.pdf)
 10. Azure Updates [Updates](https://azure.microsoft.com/en-us/updates/)
-![today's Cloud Challenges](png/today's Cloud Challenges.PNG)
+
+
+![Cloud Challenges](png/Cloud Challenges.PNG)
