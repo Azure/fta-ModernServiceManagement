@@ -26,9 +26,10 @@
 9. Cost Management [Azure CostManagement](https://azure.microsoft.com/en-us/services/cost-management/#features) (https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/best-practices) (https://docs.microsoft.com/en-us/azure/architecture/framework/cost/design-model)
 10. SLA and resilience [Azure Reliability](https://azure.microsoft.com/en-us/features/reliability/#features) (https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-resiliency-azure) (https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-resiliency-infographic/Azure_resiliency_infographic.pdf)
 11. Azure Updates [Updates](https://azure.microsoft.com/en-us/updates/)
+
 ## Fundamental resources
-*Azure Fundamental Concepts [Fundamental Concepts](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts)
-*Cost Management [Azure CostManagement](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/best-practices)
-*Cost Management [Azure CostManagement Design](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/design-model)
+###Azure Fundamental Concepts [Fundamental Concepts](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts)
+###Cost Management [Azure CostManagement](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/best-practices)
+###Cost Management [Azure CostManagement Design](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/design-model)
 
 ![CloudChallenges](/png/CloudChallenges.PNG)
