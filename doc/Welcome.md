@@ -28,4 +28,6 @@
 11. Azure Updates [Updates](https://azure.microsoft.com/en-us/updates/)
 ## Fundamental resources
 Azure Fundamental Concepts [Fundamental Concepts](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts)
+
+
 ![CloudChallenges](/png/CloudChallenges.PNG)
