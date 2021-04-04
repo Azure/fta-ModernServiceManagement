@@ -7,7 +7,7 @@
 
 **Slideless** No PowerPoint, we promise! As we update this content you will get the changes straight away.
 
-**Feeback** We would love to hear your thoughts, please provide us your feedback [//aka.ms/ftalive](https://aka.ms/ftalive).
+**Feedback** We would love to hear your thoughts, please provide us your feedback [//aka.ms/ftalive](https://aka.ms/ftalive).
 
 ![journey](/png/Journey.PNG)
 
@@ -27,7 +27,7 @@
 10. SLA and resilience [Azure Reliability](https://azure.microsoft.com/en-us/features/reliability/#features) (https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-resiliency-azure) (https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-resiliency-infographic/Azure_resiliency_infographic.pdf)
 11. Azure Updates [Updates](https://azure.microsoft.com/en-us/updates/)
 
-## Aditional resources
+## Additional resources
 * Azure Fundamental Concepts [Fundamental Concepts and terminology](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts)
 * Cost Management [CAF Best practices for costing and sizing resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/best-practices)
 * Cost Management [WAF Azure Cost Management Design](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/design-model)
