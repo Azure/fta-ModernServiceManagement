@@ -25,7 +25,7 @@
 ## Processes
 8. Azure Service Health – Incident Management [Azure Service Health](https://azure.microsoft.com/en-us/features/service-health/#features)
 9. Cost Management [Azure CostManagement](https://azure.microsoft.com/en-us/services/cost-management/#features) 
-10. SLA and resilience [Azure Reliability](https://azure.microsoft.com/en-us/features/reliability/#features) (https://azure.microsoft.com/mediahandler/files/resourcefiles/infographic-reliability-with-microsoft-azure/InfographicRC2.pdf) (https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-resiliency-azure) (https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-resiliency-infographic/Azure_resiliency_infographic.pdf)
+10. SLA and resilience [Azure Reliability](https://azure.microsoft.com/en-us/features/reliability/#features) (https://azure.microsoft.com/mediahandler/files/resourcefiles/infographic-reliability-with-microsoft-azure/InfographicRC2.pdf) (https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-resiliency-infographic/Azure_resiliency_infographic.pdf)
 11. Azure Updates [Updates](https://azure.microsoft.com/en-us/updates/)
 
 ## Additional resources
@@ -33,4 +33,6 @@
 * Cost Management [CAF Best practices for costing and sizing resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/best-practices)
 * Cost Management [WAF Azure Cost Management Design](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/design-model)
 * Azure Resilience [Resilience in Azure Whitepaper](https://azure.microsoft.com/mediahandler/files/resourcefiles/resilience-in-azure-whitepaper/Resilience%20in%20Azure.pdf)
+
+
 ![CloudChallenges](/png/CloudChallenges.PNG)
