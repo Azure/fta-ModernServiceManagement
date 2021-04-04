@@ -21,9 +21,10 @@
 4. Cloud Functions [Understanding Cloud Functions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/#understand-required-cloud-functions)
 5. What is your Portfolio [Understand and align the portfolio hierarchy](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/reference/fundamental-concepts/hosting-hierarchy#common-workload-and-accountability-examples)
 6. Roles [Map People to Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/organization-structures) [RACI](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/raci-alignment)
-7. Establish  [Teams](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#establish-teams)
-8.  Role Development [Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills)
-9. Skilling [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
+7. Establish  [Teams](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#establish-teams)  
+   * [Shared Responsibility](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
+9.  Role Development [Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills)
+10. Skilling [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
 
 ## Processes
 1. Azure Service Health [Azure Service Health](https://azure.microsoft.com/en-us/features/service-health/#features), [Support Plans](https://azure.microsoft.com/en-us/support/plans/)
