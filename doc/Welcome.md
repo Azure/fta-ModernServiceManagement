@@ -33,10 +33,10 @@
 5. Azure Updates [Updates](https://azure.microsoft.com/en-us/updates/)
 
 ## Additional resources
-* Azure Fundamental Concepts [Fundamental Concepts and terminology](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts)
-* Cost Management [CAF Best practices for costing and sizing resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/best-practices)
-* Cost Management [WAF Azure Cost Management Design](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/design-model)
-* Azure Resilience [Resilience in Azure Whitepaper](https://azure.microsoft.com/mediahandler/files/resourcefiles/resilience-in-azure-whitepaper/Resilience%20in%20Azure.pdf)
-
+* [Fundamental Concepts and terminology](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts)
+* [CAF Best practices for costing and sizing resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/best-practices)
+* [WAF Azure Cost Management Design](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/design-model)
+* [Resilience in Azure Whitepaper](https://azure.microsoft.com/mediahandler/files/resourcefiles/resilience-in-azure-whitepaper/Resilience%20in%20Azure.pdf)
+* [Unified Operations](https://docs.microsoft.com/en-au/azure/cloud-adoption-framework/scenarios/hybrid/unified-operations#defining-unified-operations)
 
 ![CloudChallenges](/png/CloudChallenges.PNG)
