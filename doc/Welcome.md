@@ -28,7 +28,7 @@
 11. Azure Updates [Updates](https://azure.microsoft.com/en-us/updates/)
 
 ## Fundamental resources
-* Azure Fundamental Concepts [Fundamental Concepts](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts)
+* Azure Fundamental Concepts [Fundamental Concepts and terminology](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts)
 * Cost Management [Azure CostManagement](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/best-practices)
 * Cost Management [Azure CostManagement Design](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/design-model)
 
