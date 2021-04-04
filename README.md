@@ -1,5 +1,5 @@
 # fta-ModernServiceOperations
-Content for MSM FTA 1:Many Session.
+Content for MSO FTA 1:Many Session.
 
 Information and agenda https://github.com/Azure/fta-ModernServiceManagement/blob/main/doc/Welcome.md
 
