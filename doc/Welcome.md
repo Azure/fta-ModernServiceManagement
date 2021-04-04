@@ -1,4 +1,4 @@
-# Welcome to the FastTrack for Azure Modern Service Operations Call
+# Welcome to the FastTrack for Azure Modern Service Operations Session
 ## We will start 3-4 minutes after the scheduled time to accommodate those still connecting
 
 > This call will **not** be recorded due to the wide audience and to encourage questions.
@@ -14,6 +14,7 @@
 
 # Agenda
 ## Journey
+
 1. Understanding the operating models [understanding operating models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model)
 2. Operating model [Comparing Operating Models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/compare)
 4. Cloud Functions [Understanding Cloud Functions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/#understand-required-cloud-functions)
@@ -22,6 +23,7 @@
 7. Establish  [Teams](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#establish-teams)
 8.  Role Development [Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills)
 9. Skilling [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
+
 ## Processes
 1. Azure Service Health [Azure Service Health](https://azure.microsoft.com/en-us/features/service-health/#features), [Support Plans](https://azure.microsoft.com/en-us/support/plans/)
 2. Cost Management [Azure Cost Management](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview) 
