@@ -14,12 +14,13 @@
 
 # Agenda
 ## Journey
-1. Operating model [Comparing Operating Models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/)
-2. Cloud Functions [Understanding Cloud Functions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/#understand-required-cloud-functions)
-3. Roles [Map People to Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/organization-structures) [RACI](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/raci-alignment)
-4. Establish  [Teams](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#establish-teams)
-5.  Role Development [Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills)
-6. Skilling [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
+1. Understanding the operating models [understanding operating models] (https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model)
+2. Operating model [Comparing Operating Models] (https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/compare)
+3. Cloud Functions [Understanding Cloud Functions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/#understand-required-cloud-functions)
+4. Roles [Map People to Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/organization-structures) [RACI](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/raci-alignment)
+5. Establish  [Teams](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#establish-teams)
+6.  Role Development [Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills)
+7. Skilling [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
 ## Processes
 7. Azure Service Health – Incident Management [Azure Service Health](https://azure.microsoft.com/en-us/features/service-health/#features)
 8. Cost Management [Azure CostManagement](https://azure.microsoft.com/en-us/services/cost-management/#features) (https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/best-practices) (https://docs.microsoft.com/en-us/azure/architecture/framework/cost/design-model)
