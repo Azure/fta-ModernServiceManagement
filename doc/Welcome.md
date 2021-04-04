@@ -29,8 +29,8 @@
 2. Cost Management [Azure Cost Management](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview) 
   * [Cost Optimization](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-best-practices) 
   * [Plan to manage cost](https://docs.microsoft.com/en-us/azure/cost-management-billing/understand/plan-manage-costs)
-4. SLA and resilience [Azure Reliability](https://azure.microsoft.com/en-us/features/reliability/#features) [Infographic](https://azure.microsoft.com/mediahandler/files/resourcefiles/infographic-reliability-with-microsoft-azure/InfographicRC2.pdf) 
-5. Azure Updates [Updates](https://azure.microsoft.com/en-us/updates/)
+3. SLA and resilience [Azure Reliability](https://azure.microsoft.com/en-us/features/reliability/#features) [Infographic](https://azure.microsoft.com/mediahandler/files/resourcefiles/infographic-reliability-with-microsoft-azure/InfographicRC2.pdf) 
+4. Azure Updates [Updates](https://azure.microsoft.com/en-us/updates/)
 
 ## Additional resources
 * [Fundamental Concepts and terminology](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts)
