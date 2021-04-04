@@ -25,7 +25,7 @@
 ## Processes
 8. Azure Service Health – Incident Management [Azure Service Health](https://azure.microsoft.com/en-us/features/service-health/#features)
 9. Cost Management [Azure CostManagement](https://azure.microsoft.com/en-us/services/cost-management/#features) 
-10. SLA and resilience [Azure Reliability](https://azure.microsoft.com/en-us/features/reliability/#features) (https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-resiliency-azure) (https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-resiliency-infographic/Azure_resiliency_infographic.pdf)
+10. SLA and resilience [Azure Reliability](https://azure.microsoft.com/en-us/features/reliability/#features) (https://azure.microsoft.com/mediahandler/files/resourcefiles/infographic-reliability-with-microsoft-azure/InfographicRC2.pdf) (https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/infrastructure-resiliency-azure) (https://azure.microsoft.com/mediahandler/files/resourcefiles/azure-resiliency-infographic/Azure_resiliency_infographic.pdf)
 11. Azure Updates [Updates](https://azure.microsoft.com/en-us/updates/)
 
 ## Additional resources
