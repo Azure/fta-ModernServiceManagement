@@ -23,7 +23,7 @@
 8.  Role Development [Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills)
 9. Skilling [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
 ## Processes
-8. Azure Service Health – Incident Management [Azure Service Health](https://azure.microsoft.com/en-us/features/service-health/#features) [Support Plans](https://azure.microsoft.com/en-us/support/plans/)
+8. Azure Service Health [Azure Service Health](https://azure.microsoft.com/en-us/features/service-health/#features), [Support Plans](https://azure.microsoft.com/en-us/support/plans/)
 9. Cost Management [Azure CostManagement](https://azure.microsoft.com/en-us/services/cost-management/#features) 
 10. SLA and resilience [Azure Reliability](https://azure.microsoft.com/en-us/features/reliability/#features) [Infographic](https://azure.microsoft.com/mediahandler/files/resourcefiles/infographic-reliability-with-microsoft-azure/InfographicRC2.pdf) 
 11. Azure Updates [Updates](https://azure.microsoft.com/en-us/updates/)
