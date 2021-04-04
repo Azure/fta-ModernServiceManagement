@@ -11,6 +11,7 @@
 
 ![journey](/png/Journey.PNG)
 
+![CloudChallenges](/png/CloudChallenges.PNG)
 
 # Agenda
 ## Journey
@@ -39,4 +40,4 @@
 * [Resilience in Azure Whitepaper](https://azure.microsoft.com/mediahandler/files/resourcefiles/resilience-in-azure-whitepaper/Resilience%20in%20Azure.pdf)
 * [Unified Operations](https://docs.microsoft.com/en-au/azure/cloud-adoption-framework/scenarios/hybrid/unified-operations#defining-unified-operations)
 
-![CloudChallenges](/png/CloudChallenges.PNG)
+
