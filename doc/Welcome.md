@@ -40,6 +40,7 @@
 
 ## Additional resources
 * [Fundamental Concepts and terminology](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts)
+* [Operating Model Terminology](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/terms)
 * [CAF Best practices for costing and sizing resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/best-practices)
 * [WAF Azure Cost Management Design](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/design-model)
 * [Resilience in Azure Whitepaper](https://azure.microsoft.com/mediahandler/files/resourcefiles/resilience-in-azure-whitepaper/Resilience%20in%20Azure.pdf)
