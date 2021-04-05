@@ -25,6 +25,7 @@
 7. Establish  [Teams](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#establish-teams)  
    * [Shared Responsibility](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
    * [Aligning Roles and Responsibilities](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/prerequisites/cultural-complexity)
+    * [Cloud Strategy Team](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/team/cloud-strategy) 
 9.  Role Development [Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills)
 10. Skilling [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
 
