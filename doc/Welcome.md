@@ -46,7 +46,7 @@
 * [Understand and align the portfolio hierarchy](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/reference/fundamental-concepts/hosting-hierarchy#hierarchy-accountability-and-guidance)
 * [CAF Best practices for costing and sizing resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/best-practices)
 * [WAF Azure Cost Management Design](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/design-model)   
-*  [Cost Management Tools](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/toolchain)
+* [Cost Management Tools](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/toolchain)
 * [Resilience in Azure Whitepaper](https://azure.microsoft.com/mediahandler/files/resourcefiles/resilience-in-azure-whitepaper/Resilience%20in%20Azure.pdf)
 * [Unified Operations](https://docs.microsoft.com/en-au/azure/cloud-adoption-framework/scenarios/hybrid/unified-operations#defining-unified-operations)
 * [Available Assessments](https://docs.microsoft.com/en-us/assessments/)
