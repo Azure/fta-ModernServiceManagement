@@ -20,7 +20,7 @@
 1. Understanding the operating models [understanding operating models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model)
 2. Operating model [Comparing Operating Models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/compare)
 4. Cloud Functions [Understanding Cloud Functions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/#understand-required-cloud-functions)
-5. What is your Portfolio [Understand and align the portfolio hierarchy](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/reference/fundamental-concepts/hosting-hierarchy#common-workload-and-accountability-examples)
+5. What is your Portfolio [Understand and align the portfolio hierarchy](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/reference/fundamental-concepts/hosting-hierarchy#hierarchy-accountability-and-guidance)
 6. Roles [Map People to Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/organization-structures) [RACI](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/raci-alignment)
 7. Establish  [Teams](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#establish-teams)  
    * [Shared Responsibility](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
