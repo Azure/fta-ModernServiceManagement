@@ -14,7 +14,7 @@
 # Agenda
 ## Journey
 
-1. Understanding the operating models [understanding operating models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model)
+1. Understanding the operating models [Understanding Operating Models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model)
 2. Operating model [Comparing Operating Models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/compare)
 4. Cloud Functions [Understanding Cloud Functions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/#understand-required-cloud-functions)  
    * [Cloud Strategy Team](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/team/cloud-strategy) 
