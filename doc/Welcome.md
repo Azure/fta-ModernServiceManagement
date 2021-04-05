@@ -21,7 +21,7 @@
    * [Cloud Adoption Team](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/team/cloud-adoption)
    * [Cloud Governance Team](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/team/cloud-governance)
    * [Cloud Operations Team](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/team/cloud-operations)
-6. What is your Portfolio [Understand and align the portfolio hierarchy](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/reference/fundamental-concepts/hosting-hierarchy#hierarchy-accountability-and-guidance)
+6. Adapt Roles and Skills [Adapt Roles, Skills and Processes](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/adapt-roles-skills-processes)
 7. Establish  [Teams](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#establish-teams)  
    * [Shared Responsibility](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
    * [Aligning Roles and Responsibilities](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/prerequisites/cultural-complexity)  
@@ -43,6 +43,7 @@
 ## Additional resources
 * [Fundamental Concepts and terminology](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts)
 * [Operating Model Terminology](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/terms)
+* [Understand and align the portfolio hierarchy](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/reference/fundamental-concepts/hosting-hierarchy#hierarchy-accountability-and-guidance)
 * [CAF Best practices for costing and sizing resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/best-practices)
 * [WAF Azure Cost Management Design](https://docs.microsoft.com/en-us/azure/architecture/framework/cost/design-model)
 * [Resilience in Azure Whitepaper](https://azure.microsoft.com/mediahandler/files/resourcefiles/resilience-in-azure-whitepaper/Resilience%20in%20Azure.pdf)
