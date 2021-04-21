@@ -38,7 +38,7 @@
 3. SLA and resilience [Azure Reliability](https://azure.microsoft.com/en-us/features/reliability/#features) [Infographic](https://azure.microsoft.com/mediahandler/files/resourcefiles/infographic-reliability-with-microsoft-azure/InfographicRC2.pdf) 
 4. Azure Updates [Updates](https://azure.microsoft.com/en-us/updates/)
    * [Agile Change management](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/prerequisites/technical-complexity)
-5. Policy Adhearance [Policy Compliance Processes](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/policy-compliance/processes)
+5. Policy Adherance [Policy Compliance Processes](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/policy-compliance/processes)
 
 ## Additional resources
 * [Fundamental Concepts and terminology](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts)
