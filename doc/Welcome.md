@@ -21,6 +21,7 @@
    * [Cloud Adoption Team](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/team/cloud-adoption)
    * [Cloud Governance Team](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/team/cloud-governance)
    * [Cloud Operations Team](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/team/cloud-operations)
+   * [Hierarchy accountability and guidance](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/reference/fundamental-concepts/hosting-hierarchy#hierarchy-accountability-and-guidance)
 6. Adapt Roles and Skills [Adapt Roles, Skills and Processes](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/adapt-roles-skills-processes)
 7. Establish  [Teams](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#establish-teams)  
    * [Shared Responsibility](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
