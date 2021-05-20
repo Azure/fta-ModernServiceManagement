@@ -58,4 +58,4 @@
 ## PowerPoint and RACI Template - Downloads
 1. [Modern Service Operations Journey PPTX](https://github.com/Azure/fta-ModernServiceManagement/blob/main/doc/Modern%20Service%20Management%20V2.0%20-%20publish.pptx)
 2. [RACI Template](https://github.com/Azure/fta-ModernServiceManagement/blob/main/doc/Completed%20RACI.xlsx)
-* PPT last update 2-/05/21
+* PPT last update 20/05/21
