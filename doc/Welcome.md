@@ -57,5 +57,5 @@
 
 ## PowerPoint and RACI Template
 1. [For those who prefer to look at slides please download the PPTX from here](https://github.com/Azure/fta-ModernServiceManagement/blob/main/doc/Modern%20Service%20Management%20V2.0%20-%20publish.pptx)
-2. RACI Template
+2. [RACI Template](https://github.com/Azure/fta-ModernServiceManagement/blob/main/doc/Completed%20RACI.xlsx)
 
