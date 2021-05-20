@@ -54,5 +54,5 @@
 * [Resilience in Azure Whitepaper](https://azure.microsoft.com/mediahandler/files/resourcefiles/resilience-in-azure-whitepaper/Resilience%20in%20Azure.pdf)
 * [Unified Operations](https://docs.microsoft.com/en-au/azure/cloud-adoption-framework/scenarios/hybrid/unified-operations#defining-unified-operations)
 * [Available Assessments](https://docs.microsoft.com/en-us/assessments/)
-
+* [For those who prefer to look at slides](/doc/Modern Service Management V2.0 - publish.pptx)
 
