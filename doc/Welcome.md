@@ -38,7 +38,7 @@
    * [Plan to manage cost](https://docs.microsoft.com/en-us/azure/cost-management-billing/understand/plan-manage-costs)  
 3. SLA and resilience [Azure Reliability](https://azure.microsoft.com/en-us/features/reliability/#features) [Infographic](https://azure.microsoft.com/mediahandler/files/resourcefiles/infographic-reliability-with-microsoft-azure/InfographicRC2.pdf) 
 4. Cloud Change Management
-    * [Platform Updates](https://azure.microsoft.com/en-us/updates/)
+    * [Azue Updates](https://azure.microsoft.com/en-us/updates/)
     * [Service Updates](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/platform-automation-and-devops)
     * [Solution Updates]
    * [Agile Change management](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/prerequisites/technical-complexity)
