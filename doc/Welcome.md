@@ -12,7 +12,7 @@
 ![journey](/png/Journey.PNG)
 
 # Agenda
-**Before we begin** Brief Introduction to the [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/overview) and the [Well Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
+**Before we begin** a brief Introduction to the [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/overview) and the [Well Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
 ## Journey
 
 1. Understanding the operating models [Understanding Operating Models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model)
