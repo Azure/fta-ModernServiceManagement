@@ -43,6 +43,7 @@
     * [Service Updates](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/platform-automation-and-devops)
     * [Solution Updates]
    * [Agile Change management](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/prerequisites/technical-complexity)
+   * [Migration Factory](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/prerequisites/technical-complexity#large-or-complex-sprint-structures)
 5. Policy Adherance [Policy Compliance Processes](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/policy-compliance/processes)
 
 ## Additional resources
