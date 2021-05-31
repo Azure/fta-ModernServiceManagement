@@ -46,7 +46,7 @@
     * [Service Updates](https://docs.microsoft.com/en-us/azure/app-service/overview-patch-os-runtime)
     * [Agile Change management](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/prerequisites/technical-complexity)
 5. Platform Automation [DevOps](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/platform-automation-and-devops)
-6. Policy Adherance [Policy Compliance Processes](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/policy-compliance/processes)
+6. Corporate policy [Define Policy](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/policy-compliance/policy-definition) Policy Adherance [Policy Compliance Processes](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/policy-compliance/processes)
 
 ## Additional resources
 * [Fundamental Concepts and terminology](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts)
