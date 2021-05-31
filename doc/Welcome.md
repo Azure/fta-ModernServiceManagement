@@ -42,7 +42,7 @@
 3. SLA and resilience [Azure Reliability](https://azure.microsoft.com/en-us/features/reliability/#features) [Infographic](https://azure.microsoft.com/mediahandler/files/resourcefiles/infographic-reliability-with-microsoft-azure/InfographicRC2.pdf) 
 4. Cloud Change Management
     * [Azue Updates](https://azure.microsoft.com/en-us/updates/) [Platform Updates](https://docs.microsoft.com/en-us/azure/virtual-machines/maintenance-and-updates)
-    * [Service Updates](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/platform-automation-and-devops)
+    * [Service Updates](https://docs.microsoft.com/en-us/azure/app-service/overview-patch-os-runtime)
     * [Solution Updates]
    * [Agile Change management](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/prerequisites/technical-complexity)
    * [Migration Factory](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/prerequisites/technical-complexity#large-or-complex-sprint-structures)
