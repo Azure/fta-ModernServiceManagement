@@ -34,7 +34,7 @@
 12. Skilling [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
 
 ## Processes
-1. Azure Service Health [Azure Service Health](https://azure.microsoft.com/en-us/features/service-health/#features), [Support Plans](https://azure.microsoft.com/en-us/support/plans/)
+1. Azure Service Health [Azure Service Health](https://docs.microsoft.com/en-us/azure/service-health/overview), [Support Plans](https://azure.microsoft.com/en-us/support/plans/)
 2. Cost Management [Build a cost-conscious organization](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cost-conscious-organization)
    * [Azure Cost Management](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview)  
    * [Cost Optimization](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-best-practices)   
