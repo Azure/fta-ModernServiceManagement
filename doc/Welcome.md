@@ -30,7 +30,8 @@
    * [Aligning Roles and Responsibilities](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/prerequisites/cultural-complexity)  
 9.  Roles [Map People to Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/organization-structures) [RACI](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/raci-alignment)
 10.  Role Development [Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills)
-11. Skilling [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
+11. Learning Paths [MSLearn](https://docs.microsoft.com/en-us/learn/browse/?products=azure)
+12. Skilling [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
 
 ## Processes
 1. Azure Service Health [Azure Service Health](https://azure.microsoft.com/en-us/features/service-health/#features), [Support Plans](https://azure.microsoft.com/en-us/support/plans/)
