@@ -41,12 +41,12 @@
    * [Plan to manage cost](https://docs.microsoft.com/en-us/azure/cost-management-billing/understand/plan-manage-costs)  
 3. SLA and resilience [Azure Reliability](https://azure.microsoft.com/en-us/features/reliability/#features) [Infographic](https://azure.microsoft.com/mediahandler/files/resourcefiles/infographic-reliability-with-microsoft-azure/InfographicRC2.pdf) 
 4. Cloud Change Management
-    * [Azue Updates](https://azure.microsoft.com/en-us/updates/) [Platform Updates](https://docs.microsoft.com/en-us/azure/virtual-machines/maintenance-and-updates)
+    * [Azue Updates](https://azure.microsoft.com/en-us/updates/) 
+    * [Platform Updates](https://docs.microsoft.com/en-us/azure/virtual-machines/maintenance-and-updates)
     * [Service Updates](https://docs.microsoft.com/en-us/azure/app-service/overview-patch-os-runtime)
-    * [Solution Updates]
-   * [Agile Change management](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/prerequisites/technical-complexity)
-   * [Migration Factory](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/prerequisites/technical-complexity#large-or-complex-sprint-structures)
-5. Policy Adherance [Policy Compliance Processes](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/policy-compliance/processes)
+    * [Agile Change management](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/prerequisites/technical-complexity)
+5. Platform Automation [DevOps](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/platform-automation-and-devops)
+6. Policy Adherance [Policy Compliance Processes](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/policy-compliance/processes)
 
 ## Additional resources
 * [Fundamental Concepts and terminology](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts)
