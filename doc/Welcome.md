@@ -61,6 +61,7 @@
 * [Unified Operations](https://docs.microsoft.com/en-au/azure/cloud-adoption-framework/scenarios/hybrid/unified-operations#defining-unified-operations)
 * [Available Assessments](https://docs.microsoft.com/en-us/assessments/)
 * [Skills readiness for cloud migration](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/suggested-skills)
+* [DevOps Engineer Learning Path](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/?WT.mc_id=Azure_BoM-wwl)
 
 ## PowerPoint and RACI Template - Downloads
 1. [Modern Service Operations Journey PPTX](https://github.com/Azure/fta-ModernServiceManagement/blob/main/doc/Modern%20Service%20Management%20V2.0%20-%20publish.pptx)
