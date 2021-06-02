@@ -13,7 +13,7 @@
 
 # Agenda
 **Before we begin** a brief Introduction to the [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/overview) and the [Well Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
-## Journey
+## Operating Models and Functions
 
 1. Understanding the operating models [Understanding Operating Models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model)
 2. Operating model [Comparing Operating Models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/compare)
@@ -24,14 +24,16 @@
    * [Cloud Operations Team](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/team/cloud-operations)
    * [Hierarchy accountability and guidance](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/reference/fundamental-concepts/hosting-hierarchy#hierarchy-accountability-and-guidance)
 6. Roles and Operating Models [Understanding roles and Operating Models](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/operational-fitness-review#understand-roles--operating-models)
-7. Adapt Roles and Skills [Adapt Roles, Skills and Processes](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/adapt-roles-skills-processes)
-8. Establish  [Teams](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#establish-teams)  
+
+## People
+1. Adapt Roles and Skills [Adapt Roles, Skills and Processes](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/adapt-roles-skills-processes)
+2. Establish  [Teams](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/get-started/#establish-teams)  
    * [Shared Responsibility](https://docs.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility)
    * [Aligning Roles and Responsibilities](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/prerequisites/cultural-complexity)  
-9.  Roles [Map People to Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/organization-structures) [RACI](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/raci-alignment)
-10.  Role Development [Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills)
-11. Learning Paths [MSLearn](https://docs.microsoft.com/en-us/learn/browse/?products=azure)
-12. Skilling [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
+3.  Roles [Map People to Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/organization-structures) [RACI](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/organize/raci-alignment)
+4.  Role Development [Roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/suggested-skills)
+5. Learning Paths [MSLearn](https://docs.microsoft.com/en-us/learn/browse/?products=azure)
+6. Skilling [Microsoft Certifications](https://docs.microsoft.com/en-us/learn/certifications/)
 
 ## Processes
 1. Azure Service Health [Azure Service Health](https://docs.microsoft.com/en-us/azure/service-health/overview), [Support Plans](https://azure.microsoft.com/en-us/support/plans/)
@@ -41,7 +43,7 @@
    * [Plan to manage cost](https://docs.microsoft.com/en-us/azure/cost-management-billing/understand/plan-manage-costs)  
 3. SLA and resilience [Azure Reliability](https://azure.microsoft.com/en-us/features/reliability/#features) [Infographic](https://azure.microsoft.com/mediahandler/files/resourcefiles/infographic-reliability-with-microsoft-azure/InfographicRC2.pdf) 
 4. Cloud Change Management
-    * [Azue Updates](https://azure.microsoft.com/en-us/updates/) 
+    * [Azue Product and Feature Updates](https://azure.microsoft.com/en-us/updates/) 
     * [Platform Updates](https://docs.microsoft.com/en-us/azure/virtual-machines/maintenance-and-updates)
     * [Service Updates](https://docs.microsoft.com/en-us/azure/app-service/overview-patch-os-runtime)
     * [Agile Change management](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/prerequisites/technical-complexity)
